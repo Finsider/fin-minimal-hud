@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "minimal-hud",
+	"id": "minimal-armor-hud",
 	"version": "${version}",
-	"name": "Minimal HUD",
+	"name": "Minimal Armor HUD",
 	"description": "no",
 	"authors": [
 		"Finside"
@@ -10,7 +10,7 @@
 	"license": "CC0-1.0",
 	"environment": "*",
 	"mixins": [
-      "minimal-hud.mixins.json"
+      "minimal-armor-hud.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.18.4",
